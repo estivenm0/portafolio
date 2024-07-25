@@ -12,7 +12,7 @@ function Skills() {
         <header className="md:px-0">
         </header>
         <p className="px-3 leading-relaxed rounded-md bg-sky-100/60 border-sky-600 md:text-lg text-slate-900">
-        Especializado en desarrollo Backend con Laravel, he construido APIs RESTful y aplicaciones monolíticas con Laravel, Livewire e Inertia usando MySQL para la gestión de bases de datos. Además, tengo conocimientos en frontend con Reacty Vue y buenas prácticas de maquetación con Tailwind CSS. Comprometido con el aprendizaje continuo y con una excelente capacidad para leer y comprender documentación, estoy preparado para contribuir al éxito de proyectos desafiantes, demostrando flexibilidad y habilidades efectivas de resolución de problemas.
+        Especializado en desarrollo Backend con Laravel, he construido APIs RESTful y aplicaciones monolíticas con Laravel, Livewire e Inertia usando MySQL para la gestión de bases de datos. Además, tengo conocimientos en frontend con React, Vue y Tailwind CSS. Comprometido con el aprendizaje continuo y con una excelente capacidad para leer y comprender documentación, estoy preparado para contribuir al éxito de proyectos desafiantes, demostrando flexibilidad y habilidades efectivas de resolución de problemas.
         </p>
       </section>
 
