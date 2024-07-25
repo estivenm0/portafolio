@@ -6,7 +6,7 @@ const data = {
             img: "/projects/aventuro.webp",
             description: "Aventuro es una aplicación web para agencias de viajes que permite a los usuarios explorar varios paquetes de viajes, realizar reservas y administrar sus cuentas de manera eficiente. Diseñado pensando en la experiencia del usuario, Aventuro ofrece una gama de funcionalidades para garantizar un proceso de reserva fluido y agradable.",
             repository: "https://github.com/stivenm0/aventuro_frontend",
-            link: "https://youtu.be/yB9iMueEPH8"
+            link: "https://youtu.be/gSUW1SWNJuk?si=VmcKAuGltvgrbWJW"
         },
         {
             stack: ["Laravel", "TailwindCSS", "Alpine.js", "MySQL"],
@@ -14,7 +14,7 @@ const data = {
             img: "/projects/aventuro-api.webp",
             description: "Aventuro API  permite la comunicación eficiente entre el frontend y el backend, y cuenta con un panel administrativo que proporciona una interfaz amigable para gestionar todos los aspectos de la plataforma.",
             repository: "https://github.com/stivenm0/aventuro_backend",
-            link: "https://github.com/stivenm0/aventuro_backend"
+            link: "https://youtu.be/gSUW1SWNJuk?si=VmcKAuGltvgrbWJW"
         },
         {
             stack: ["Laravel", "React", "TailwindCSS", "MySQL"],
