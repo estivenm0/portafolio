@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 
 function Home() {
   useEffect(() => {
-    document.title = "Stivenm";
+    document.title = "Maycol";
   }, []);
 
   return (
