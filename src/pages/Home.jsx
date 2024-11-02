@@ -35,7 +35,7 @@ function Home() {
             </Link>
           </p>
           <div className="flex items-center justify-start mt-8">
-            <Link to="https://github.com/stivenm0" target="_blank"
+            <Link to="https://github.com/estivenm0" target="_blank"
               className="block mr-8 text-gray-900 transition-all duration-200 transform fill-current md:mr-12 hover:text-slate-500 hover:-translate-y-1"
             >
               <img
@@ -44,7 +44,7 @@ function Home() {
                 className="w-12 h-12 rounded-full bg-slate-800"
               />
             </Link>
-            <Link to="https://twitter.com/stivenm_0" target="_blank"
+            <Link to="https://twitter.com/estivenm0" target="_blank"
               className="block mr-8 text-gray-900 transition-all duration-200 transform fill-current md:mr-12 hover:text-slate-500 hover:-translate-y-1"
             >
               <img
