@@ -31,11 +31,6 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  {
-    future: {
-      v7_startTransition: true, // Opta por la nueva funcionalidad
-    },
-  }
 );
 
 export default router;
