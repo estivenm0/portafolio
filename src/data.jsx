@@ -80,14 +80,14 @@ const data = {
             repository: "https://github.com/stivenm0/Launch_X/tree/main/Pokedex",
             link: "https://s-pokedex.netlify.app/"
         },
-        {
-            stack: ["React", "CSS"],
-            title: "Calculadora",
-            img: "/projects/calculadora.webp",
-            description: "Calculadora con simplicidad y funcionalidad. Diseñada con una interfaz moderna y atractiva, esta aplicación realiza operaciones básicas, como suma, resta, multiplicación y división.",
-            repository: "https://github.com/stivenm0/Launch_X/tree/main/Calculadora",
-            link: "https://mcalculatorm.netlify.app/"
-        },
+        // {
+        //     stack: ["React", "CSS"],
+        //     title: "Calculadora",
+        //     img: "/projects/calculadora.webp",
+        //     description: "Calculadora con simplicidad y funcionalidad. Diseñada con una interfaz moderna y atractiva, esta aplicación realiza operaciones básicas, como suma, resta, multiplicación y división.",
+        //     repository: "https://github.com/stivenm0/Launch_X/tree/main/Calculadora",
+        //     link: "https://mcalculatorm.netlify.app/"
+        // },
     ],
 
     certifications: [

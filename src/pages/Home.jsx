@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 
 function Home() {
   useEffect(() => {
-    document.title = "Maycol";
+    document.title = "estivenm";
   }, []);
 
   return (
@@ -16,20 +16,20 @@ function Home() {
         <div className="relative z-10 w-full mt-4 md:w-2/3 lg:mt-16">
           <h1 className="text-xs font-extrabold leading-snug text-gray-900 sm:text-xl md:text-xl xl:text-2xl lg:leading-relaxed">
             <span className="p-2 px-4 rounded-lg text-neonGreen bg-slate-900 ">
-              php artisan: Programador Backend
+              $Desarrollador Backend 🚀
             </span>
           </h1>
-          <p className="mt-4 leading-relaxed md:text-xl text-slate-900">
-            ¡Hola, mi nombre es Maycol Muñoz! Soy un estudiante de Ingeniería
+          <p className="mt-4 leading-relaxed md:text-xl text-slate-300 ">
+            ¡Hola, mi nombre es Estiven Muñoz! Soy un estudiante de Ingeniería
             de Sistemas con enfoque en el desarrollo backend utilizando
             tecnologías como <span className="px-2 text-red-600 bg-white rounded-md" >Laravel</span>,
-            <span className="px-2 bg-white rounded-md text-violet-600" >Inertia</span> y 
-            <span className="px-2 bg-white rounded-md text-emerald-600" >Vue</span>.
+            <span className="px-2 bg-white rounded-md text-violet-700" >Inertia</span> y 
+            <span className="px-2 bg-white rounded-md text-sky-700" >React</span>.
             <br />
             <br />
             <Link
-              to="/Maycol_Muñoz_CV.pdf" target="_blank"
-              className="py-1.5 px-3 md:px-4 rounded-full duration-500 hover:scale-95 bg-gray-100 border-b border-indigo-300 shadow-sm shadow-indigo-200 hover:bg-gray-300"
+              to="/Estiven_Muñoz_CV.pdf" target="_blank"
+              className="py-1.5 px-3 md:px-4 rounded-full duration-500 hover:scale-95 bg-yellow-600 border-b border-indigo-500 shadow-sm shadow-indigo-700 hover:bg-yellow-700"
             >
               Ver CV
             </Link>
