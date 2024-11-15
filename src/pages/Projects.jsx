@@ -4,7 +4,7 @@ import Project from "../components/Project";
 
 function Projects() {
   useEffect(() => {
-    document.title = "Proyectos - Stivenm";
+    document.title = "Proyectos - estivenm";
   }, []);
 
   

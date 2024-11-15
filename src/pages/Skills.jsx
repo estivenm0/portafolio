@@ -3,7 +3,7 @@ import data from "../data";
 
 function Skills() {
   useEffect(() => {
-    document.title = "Habilidades - Stivenm";
+    document.title = "Habilidades - estivenm";
   }, []);
 
   return (

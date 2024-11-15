@@ -3,7 +3,7 @@ import Certification from "../components/Certification";
 
 function Certifications() {
   useEffect(() => {
-    document.title = "Formación - Stivenm";
+    document.title = "Formación - estivenm";
   }, []);
 
   return (
