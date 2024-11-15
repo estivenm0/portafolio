@@ -5,33 +5,37 @@ import Projects from "./pages/Projects";
 import Certifications from "./pages/Certifications";
 import Skills from "./pages/Skills";
 
-
-const router = createBrowserRouter([
+const router = createBrowserRouter(
+  [
     {
-        path: "/",
-        element:  <Layout/>,
-        // errorElement: "NOT FOUND",
-        children: [
-            {
-                path:"/",
-                element: <Home/>,
-            },
-            {
-                path:"/proyectos",
-                element: <Projects/>
-            },
-            {
-                path:"/habilidades",
-                element: <Skills/>
-            },
-            {
-                path:"/formacion",
-                element: <Certifications/>
-            },
-        ]
-
+      path: "/",
+      element: <Layout />,
+      // errorElement: "NOT FOUND",
+      children: [
+        {
+          path: "/",
+          element: <Home />,
+        },
+        {
+          path: "/proyectos",
+          element: <Projects />,
+        },
+        {
+          path: "/habilidades",
+          element: <Skills />,
+        },
+        {
+          path: "/formacion",
+          element: <Certifications />,
+        },
+      ],
     },
-    
-]);
+  ],
+  {
+    future: {
+      v7_startTransition: true, // Opta por la nueva funcionalidad
+    },
+  }
+);
 
 export default router;
