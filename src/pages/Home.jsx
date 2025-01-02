@@ -24,7 +24,7 @@ function Home() {
             de Sistemas con enfoque en el desarrollo backend utilizando
             tecnologías como <span className="px-2 text-red-600 bg-white rounded-md" >Laravel</span>,
             <span className="px-2 bg-white rounded-md text-violet-700" >Inertia</span> y 
-            <span className="px-2 bg-white rounded-md text-sky-700" >React</span>.
+            <span className="px-2 bg-white rounded-md text-emerald-500" >Vue</span>.
             <br />
             <br />
             <Link
@@ -44,7 +44,7 @@ function Home() {
                 className="w-12 h-12 rounded-full bg-slate-800"
               />
             </Link>
-            <Link to="https://twitter.com/estivenm0" target="_blank"
+            <Link to="https://x.com/estivenm0" target="_blank"
               className="block mr-8 text-gray-900 transition-all duration-200 transform fill-current md:mr-12 hover:text-slate-500 hover:-translate-y-1"
             >
               <img

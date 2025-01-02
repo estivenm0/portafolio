@@ -14,7 +14,7 @@ function Footer() {
                 <p className="text-slate-200">
                     <a href="https://github.com/estivenm0/" target="_blank" className="hover:underline hover:text-gray-900" rel="noopener noreferrer">GitHub</a>
                     <span className="text-slate-300">&nbsp;—&nbsp;</span>
-                    <a href="https://twitter.com/estivenm_0?" target="_blank" className="hover:underline hover:text-gray-900" rel="noopener noreferrer">Twitter</a>
+                    <a href="https://x.com/estivenm0" target="_blank" className="hover:underline hover:text-gray-900" rel="noopener noreferrer">Twitter</a>
                     <span className="text-slate-300">&nbsp;—&nbsp;</span>
                     <a href="https://www.linkedin.com/in/maycolmu%C3%B1oz/" target="_blank" className="hover:underline hover:text-gray-900" rel="noopener noreferrer">Linkedin</a>
                 </p>
